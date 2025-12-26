@@ -1,4 +1,6 @@
 # AWS-CIS-Benchmark-Compliance-Achieving-100-Security-Controls-for-FTR-Validation
+<img width="566" height="434" alt="image" src="https://github.com/user-attachments/assets/7990d54b-4bd3-46fc-9f2e-59a49ede231b" />
+
 (AWS CIS Benchmark · Security Hardening · Audit Readiness)
 📖 Overview
 
